@@ -1,4 +1,19 @@
-Dia3-Lógica
+# Dia 3 — Lógica de Programação
+
+## ✅ Exercícios concluídos
+- [x] Exercício 1 — Maior de dois números
+- [x] Exercício 2 — Palíndromo
+- [x] Exercício 3 — Soma de array
+- [x] Exercício 4 — Par ou ímpar
+- [ ] Exercício 5 — Maior número do array (com ajuda = em progresso)
+
+## 🎯 Próximos exercícios (Dia 4)
+- [ ] Exercício 6 — Maior que 10
+- [ ] Exercício 7 — Maior entre dois números
+- [ ] Exercício 8 — Maior entre três números
+- [ ] Exercício 9 — Loop de 1 a 5
+- [ ] Exercício 10 — Soma com loop
+
 ## Exercício 6 — Maior que 10
 **Enunciado:** Dado um número, mostrar se ele é maior que 10 ou não.  
 **Exemplos:**
