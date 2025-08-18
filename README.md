@@ -1,11 +1,11 @@
-# Dia 3 — Lógica de Programação
+## Checklist do Dia 3
 
-## ✅ Exercícios concluídos
-- [x] Exercício 1 — Maior de dois números
-- [x] Exercício 2 — Palíndromo
-- [x] Exercício 3 — Soma de array
-- [x] Exercício 4 — Par ou ímpar
-- [ ] Exercício 5 — Maior número do array (com ajuda = em progresso)
+- [X] Repositório criado.
+- [X]  Commits feitos.
+- [X]  Push no GitHub.
+- [X]  .gitignore adicionado.
+- [X] 5 exercícios de lógica resolvidos.
+- [X] README atualizado com exemplos de entrada/saída de todos os 5.
 
 ## 🎯 Próximos exercícios (Dia 4)
 - [ ] Exercício 6 — Maior que 10
