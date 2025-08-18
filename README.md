@@ -4,7 +4,7 @@
 - [X]  Commits feitos.
 - [X]  Push no GitHub.
 - [X]  .gitignore adicionado.
-- [X] 5 exercícios de lógica resolvidos.
+- [ ] 5 exercícios de lógica resolvidos.
 - [X] README atualizado com exemplos de entrada/saída de todos os 5.
 
 ## 🎯 Próximos exercícios (Dia 4)
